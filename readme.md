@@ -29,6 +29,11 @@ to setup a free instance of Mqtt broker.
 ## Run 
 > execute in bash terminal ``` export a=0```  
 > execute in bash terminal ``` . ./schedule.sh```  
-> go in func folder and execute ``` func host start ```  
+> go in func folder and execute ``` func host start ``` 
+
+# Screenshots
+
+![Image of file](https://raw.githubusercontent.com/heyAyushh/Swachh/master/opencv_frame_0.jpg)
+![Screenshot of Function execution](https://raw.githubusercontent.com/heyAyushh/Swachh/master/Screen%20Shot%202018-03-29%20at%2014.31.48.png)
 
 File an issue regarding this for anything :sparkles:
